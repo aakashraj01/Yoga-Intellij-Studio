@@ -231,7 +231,7 @@ function Yoga() {
           style={{
             position: 'absolute',
             left: 120,
-            top: 100,
+            top: 200,
             padding: '0px',
           }}
         />
@@ -243,7 +243,7 @@ function Yoga() {
             style={{
               position: 'absolute',
               left: 120,
-              top: 100,
+              top: 200,
               zIndex: 1
             }}
           >
